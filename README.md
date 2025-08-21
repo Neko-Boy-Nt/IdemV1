@@ -1,1 +1,2 @@
-# IdemV1
+# Idem
+Un Reseau social

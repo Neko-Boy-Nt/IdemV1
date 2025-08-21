@@ -1,0 +1,73 @@
+IdemV1/
+    api/
+      auth.php 
+      calls.php 
+      conversations.php 
+      friends.php 
+      groups.php 
+      messages.php 
+      notifications.php
+      online_status.php
+      posts.php
+      search.php
+      track_activity.php
+      upload.php
+      upload_audio.php
+      users.php
+    assets/
+    
+      css/
+        message-style.css 
+        responsive.css 
+        style.css 
+        feed-style.css 
+        friend-style.css
+
+      images/
+        logo.png
+        ...
+
+      js/
+        chat.js 
+        dragdrop.js 
+        feeds.js 
+        friends.js 
+        main.js 
+        notifications.js 
+        PostMenu.js 
+        search.js 
+        ThemeSwitcher.js 
+        typing-indicator.js 
+        utils.js
+
+    config/
+      config.php
+      database.php
+      session.php
+
+    includes/
+      footer.php 
+      footer2.php 
+      functions.php 
+      header.php
+
+    upload/
+      audio/
+      avatars/ 
+      images/ 
+      posts/ 
+
+    verify-email.php
+    feed.php
+    friends.php
+    groups.php
+    index.php
+    logout.php
+    messages.php
+    notifications.php
+    profile.php
+    register.php
+    search.php
+    server.php
+    settings.php
+    start.php
